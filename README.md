@@ -1,6 +1,6 @@
 ## Oiee! Sou a Luana Lima 🦊<br><br>Hi there! I'm Luana Lima!<br><br>
 
-# Sobre Mim<br><br>
+<strong>Sobre Mim<strong><br><br>
 🎓 Estou no 2° Semestre de Ciência da Computação<br>💻 Aprendendo React, Phython e Java!<br>
 
 
