@@ -1,4 +1,6 @@
-## Oiee! Sou a Luana Lima 🦊<br><br>Hi there! I'm Luana Lima!<br><br>
+## Oiee! Sou a Luana Lima 🦊
+<br>
+#Hi there! I'm Luana Lima!<br><br>
 
 <strong>Sobre Mim</strong>
 <br><br>
