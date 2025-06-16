@@ -5,7 +5,7 @@ Hi there! I'm Luana Lima!<br>
 ![Pink aesthetic background](https://github.com/user-attachments/assets/c96232c0-33a7-4e25-931b-4951820c79a0)
 
 <h3><strong>✌🏻 About me...</strong></h3>
-🎓 3° Semestre de Ciência da Computação<br> 💡 Preferência em Back com um pé no Front<br> 📚 Atualmente estudando <strong>Go</strong> 
+🎓 3° Semestre de Ciência da Computação<br> 💡 Preferência em Back com um pé no Front<br> 📚 Atualmente estudando <strong>Java</strong> 
 
 
 <h3><strong>💻 Linguagens e frameworks:</strong></h3>
